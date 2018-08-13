@@ -13,3 +13,13 @@ Designing of digital circuits based on problems in digital electronics, implemen
 - Design 4-bit up and down counter using T flip flops.
 - Design 4-bit Binary ripple counter using T flip flops.
 - Design BCD ripple counter using JK flip flops.
+
+## Sample Images
+
+![](https://github.com/Jishanshaikh4/digital-circuit-design/blob/master/Sample%20Images/1(a).png)
+
+
+![](https://github.com/Jishanshaikh4/digital-circuit-design/blob/master/Sample%20Images/1(b).png)
+
+
+![](https://github.com/Jishanshaikh4/digital-circuit-design/blob/master/Sample%20Images/4.png)
