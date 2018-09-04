@@ -1,5 +1,5 @@
 # Digital Circuit Design
-Designing of digital circuits based on problems in digital electronics, implemented in logic.ly simulator
+Designing of digital circuits based on problems in digital electronics, implemented in logic.ly simulator. (Completed PDF)
 
 ## Assignments
 
